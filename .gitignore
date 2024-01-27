@@ -1,0 +1,8 @@
+**/obj/**
+**/bin/**
+.vs/
+.idea/
+
+
+# файл
+temporary.txt
